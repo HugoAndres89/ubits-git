@@ -1,0 +1,92 @@
+commit eb6f76c4fb2cc6936cef837ac31cede702e83c1d
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Fri Aug 23 15:45:05 2024 -0500
+
+    Agregando dos parrafos
+
+commit a7beb1ecb932016ab84106d92594ac0a5f7b16ce
+Merge: 1b47953 0e105b6
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Fri Aug 23 15:42:08 2024 -0500
+
+    Solucion de conflicto en estaciones del año y fechas de inicio
+
+commit 1b479534a37f25ea68c8c0b0276501d1ab02e3b0
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Fri Aug 23 15:25:43 2024 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 0e105b6c13b52ccc679cf2521077a6bfb7d51df7
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Fri Aug 23 15:25:43 2024 -0500
+
+    Agregando estaciones del año
+
+commit f5d5669c0f35ed8887280faecdff332b3ebd4cfe
+Merge: 2ad0aa6 68b614a
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Fri Aug 23 13:58:45 2024 -0500
+
+    Resolviendo conflicto merge main html
+
+commit 68b614a5a01f6210363f3a21ce6371a105fe2796
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Fri Aug 23 12:37:39 2024 -0500
+
+    Agregand index.js al index.html
+
+commit 2ad0aa615b76b9ab306719cd5b7582bfdc963be7
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Fri Aug 23 12:13:44 2024 -0500
+
+    Agregando style.css al index-html
+
+commit 95f91cde75c9892972ea9f80c5431b582ff05743
+Merge: 1929ac2 48418c5
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Fri Aug 23 11:42:02 2024 -0500
+
+    Merge branch 'js'
+
+commit 48418c554bfec4332f20a6c9d48c80e8b4bbf7c8
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Wed Aug 21 17:40:11 2024 -0500
+
+    Creando index.js
+
+commit 1929ac2dd85f4e250749e2987d71ef3a05a0b87e
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Wed Aug 21 17:26:30 2024 -0500
+
+    Creando index html
+
+commit 1beb791c71bc05bd276cda83c6bcbb7b8b7e6d4a
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Wed Aug 21 13:53:43 2024 -0500
+
+    Ignorando archivos exe
+
+commit f1086607dc1866aff7ce8146feda243fe62ecb6d
+Author: HugoAndres89 <hugo.gonzalez.andino@gmail.com>
+Date:   Wed Aug 21 09:51:43 2024 -0500
+
+    Creando licencia del repositorio
+
+commit f3a36df0e6bc79b73a092164c62132709427887a
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Tue Aug 20 16:52:17 2024 -0500
+
+    Agregando mas contenido
+
+commit 4b39aca1b25004373d3c6f34f1ce5a3a721dd67f
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Tue Aug 20 13:48:47 2024 -0500
+
+    Agregando contenido inicial al readme
+
+commit 583fb06debc6c61b7328206faf880bade69684c3
+Author: hugo.gonzalez <hugo.gonzalez.andino@gmail.com>
+Date:   Tue Aug 20 13:43:11 2024 -0500
+
+    Primer commit
